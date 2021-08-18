@@ -12,11 +12,11 @@ export const projects = [
   {
     title: "E-Commerce",
     description:
-      "Enquanto o constrói, você aprenderá muitos tópicos avançados de React e JavaScript, bem como como usar o Stripe para transações com cartão. Além disso, no final do vídeo, você terá este aplicativo de loja virtual único e complexo que poderá adicionar ao seu portfólio. E acredite em mim, os aplicativos de comércio eletrônico são impressionantes.",
+      "Este é o resultado final da aplicação do Site e Ecommerce, feito em Reactjs e JavaScript utilizando uma API.Com ele é possível simular um ecommerce com todas as suas funcionalidades, desde a seleção dos produtos até o seu pagamento.",
     image: "/images/2.png",
     tags: ["React", "JavaScript"],
-    source: "https://google.com",
-    visit: "https://google.com",
+    source: "https://commerce-js.netlify.app/",
+    visit: "https://github.com/GabrielFraga962/E_commerce_Web/tree/main/ecommerce",
     id: 1,
   },
   {
@@ -30,9 +30,9 @@ export const projects = [
     id: 2,
   },
   {
-    title: "Unichat",
+    title: "Chat Clone",
     description:
-      "Este é um repositório de código para o tutorial em vídeo correspondente. Neste vídeo, criaremos um aplicativo de bate-papo em tempo real completo.",
+      "Este é um repositório de código para a aplicação feita em ReactJS e deploy pelo Firebase. Com ele é possível simular um chat de bate papo em tempo real.",
     image: "/images/4.jpg",
     tags: ["React", "ChatEngine", "Firebase"],
     source: "https://google.com",

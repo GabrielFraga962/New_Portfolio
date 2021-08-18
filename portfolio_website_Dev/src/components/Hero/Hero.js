@@ -17,7 +17,9 @@ const Hero = () => (
         Descktop quanto para Mobile.
       </SectionText>
       {/* Aqui terei que criar alguma outra página... */}
-      <Button onClick={() => window.location = "https://"}>Saiba mais</Button>
+      <Button onClick={() => window.location = "https://www.linkedin.com/in/gabrielsfraga96/"}>
+        Saiba mais
+      </Button>
     </LeftSection>
   </Section>
 );
