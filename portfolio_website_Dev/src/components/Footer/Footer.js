@@ -21,7 +21,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>A única força que existe é a personalidade</Slogan>
+          <Slogan>A maior força que existe é a personalidade</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/GabrielFraga962">

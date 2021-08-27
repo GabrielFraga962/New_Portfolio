@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "MERN Memories",
     description:
-      "Usando React, Node.js, Express e MongoDB, você aprenderá como construir um aplicativo MERN Full Stack - do início ao fim. O aplicativo se chama Memórias e é um aplicativo de mídia social simples que permite aos usuários postar eventos interessantes que aconteceram em suas vidas.",
+      "Usando React, Node.js, Express e MongoDB, eu construi um aplicativo MERN Full Stack - do início ao fim. O aplicativo se chama Memórias e é um aplicativo de mídia social simples que permite aos usuários postar eventos interessantes que aconteceram em suas vidas.",
     image: "/images/1.png",
     tags: ["Mongo", "Express", "React", "Node"],
     source: "https://google.com",
@@ -12,17 +12,18 @@ export const projects = [
   {
     title: "E-Commerce",
     description:
-      "Este é o resultado final da aplicação do Site e Ecommerce, feito em Reactjs e JavaScript utilizando uma API.Com ele é possível simular um ecommerce com todas as suas funcionalidades, desde a seleção dos produtos até o seu pagamento.",
+      "Este é o resultado final da aplicação do Site e Ecommerce, feito em Reactjs e JavaScript utilizando uma API. Com ele é possível simular um ecommerce com todas as suas funcionalidades, desde a seleção dos produtos até o seu pagamento.",
     image: "/images/2.png",
     tags: ["React", "JavaScript"],
     source: "https://commerce-js.netlify.app/",
-    visit: "https://github.com/GabrielFraga962/E_commerce_Web/tree/main/ecommerce",
+    visit:
+      "https://github.com/GabrielFraga962/E_commerce_Web/tree/main/ecommerce",
     id: 1,
   },
   {
     title: "WebRTC App",
     description:
-      "Este é um repositório de código para o vídeo do YouTube correspondente. Neste tutorial, vamos construir e implantar um aplicativo React Video Chat usando WebRTC.",
+      "Este é um projeto que desenvolvi usando React e WebRTC, nele eu construir e implementei um aplicativo React Video Chat usando WebRTC. O resultado você confere abaixo.",
     image: "/images/3.jpg",
     tags: ["React", "WebRTC"],
     source: "https://google.com",
@@ -36,7 +37,7 @@ export const projects = [
     image: "/images/4.jpg",
     tags: ["React", "ChatEngine", "Firebase"],
     source: "https://google.com",
-    visit: "https://google.com",
+    visit: "https://github.com/GabrielFraga962/Messenger_clone",
     id: 3,
   },
 ];
