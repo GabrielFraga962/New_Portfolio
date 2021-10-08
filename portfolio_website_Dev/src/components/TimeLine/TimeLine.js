@@ -55,8 +55,8 @@ const Timeline = () => {
       <SectionText>
         Front-End Developer na Cheil Brasil, estudante e entusiasta de Data
         Science, Machine Learning, Big Data, futuro Analista de Dados.
-        Interessado em ReactJs, Native, Angular, Python, AWS. Gosta de jogar
-        league of legends? É só chamar, vamos subir de patente juntos ou não
+        Interessado em ReactJs, Native, Angular, Python, Power BI, Data Science. Gosta de jogar
+        League of Legends? É só chamar, vamos subir de patente juntos ou não
         hehehe
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>

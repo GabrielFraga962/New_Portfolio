@@ -1,23 +1,22 @@
 export const projects = [
   {
-    title: "MERN Memories",
+    title: "PlayFlowApp",
     description:
-      "Usando React, Node.js, Express e MongoDB, eu construi um aplicativo MERN Full Stack - do início ao fim. O aplicativo se chama Memórias e é um aplicativo de mídia social simples que permite aos usuários postar eventos interessantes que aconteceram em suas vidas.",
-    image: "/images/1.png",
-    tags: ["Mongo", "Express", "React", "Node"],
+      "O PayFlow se trata de um app mobile feito em Flutter para Gerenciamento de Boletos, contendo recursos como o uso de câmera e galeria, Machine Leaning com MLKit, Firebase Core e SignIn entre vários outros pontos, como o uso do SharedPreferences.",
+    image: "/images/PlayFlow.png",
+    tags: ["Flutter", "Firebase", "Ruby"],
     source: "https://google.com",
-    visit: "https://google.com",
+    visit: "https://github.com/GabrielFraga962/PlayFlowApp/tree/main/nlw-06-flutter-main",
     id: 0,
   },
   {
-    title: "E-Commerce",
+    title: "GamePalyApp",
     description:
-      "Este é o resultado final da aplicação do Site e Ecommerce, feito em Reactjs e JavaScript utilizando uma API. Com ele é possível simular um ecommerce com todas as suas funcionalidades, desde a seleção dos produtos até o seu pagamento.",
-    image: "/images/2.png",
-    tags: ["React", "JavaScript"],
-    source: "https://commerce-js.netlify.app/",
-    visit:
-      "https://github.com/GabrielFraga962/E_commerce_Web/tree/main/ecommerce",
+      "Aplicativo para lhe ajudar a conectar-se e organiza o momento de diversão e jogar com os amigos. Crie grupos para jogar seus games favoritos com seus amigos com esse App que possui autenticação com Discord.",
+    image: "/images/GamePlayApp.png",
+    tags: ["React Native", "TypeScript", "Expo"],
+    source: "https://google.com",
+    visit: "https://github.com/GabrielFraga962/NLW_Mission_React_Native",
     id: 1,
   },
   {
