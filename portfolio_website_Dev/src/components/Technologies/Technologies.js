@@ -9,7 +9,7 @@ const Technologies = () => (
     <br/>
     <SectionTitle>Tecnologias</SectionTitle>
     <SectionText>
-      Como Desenvolvedor, já fiz trabalhos tanto em Back-End como em Front-End.
+      Como Desenvolvedor, já realizei trabalhos tanto em Back-End como em Front-End.
       Atualmente o meu foco têm sido nas tecnologias voltadas para a área do
       Front, entre elas estão o ReactJs e Native.
     </SectionText>

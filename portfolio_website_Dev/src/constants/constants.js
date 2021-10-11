@@ -2,11 +2,12 @@ export const projects = [
   {
     title: "PlayFlowApp",
     description:
-      "O PayFlow se trata de um app mobile feito em Flutter para Gerenciamento de Boletos, contendo recursos como o uso de câmera e galeria, Machine Leaning com MLKit, Firebase Core e SignIn entre vários outros pontos, como o uso do SharedPreferences.",
+      "O PayFlow se trata de um app mobile feito em Flutter para Gerenciamento de Boletos, contendo recursos como o uso de câmera e galeria, Machine Leaning com MLKit, Firebase Core entre vários outros pontos.",
     image: "/images/PlayFlow.png",
     tags: ["Flutter", "Firebase", "Ruby"],
     source: "https://google.com",
-    visit: "https://github.com/GabrielFraga962/PlayFlowApp/tree/main/nlw-06-flutter-main",
+    visit:
+      "https://github.com/GabrielFraga962/PlayFlowApp/tree/main/nlw-06-flutter-main",
     id: 0,
   },
   {
@@ -20,19 +21,19 @@ export const projects = [
     id: 1,
   },
   {
-    title: "WebRTC App",
+    title: "EcommerceApp",
     description:
-      "Este é um projeto que desenvolvi usando React e WebRTC, nele eu construir e implementei um aplicativo React Video Chat usando WebRTC. O resultado você confere abaixo.",
-    image: "/images/3.jpg",
-    tags: ["React", "WebRTC"],
+      "Aplicação do Ecommerce, feito em Reactjs e JavaScript utilizando uma API. Com ele é possível simular um ecommerce com todas as suas funcionalidades, desde a seleção dos produtos até o seu pagamento.",
+    image: "/images/2.png",
+    tags: ["React", "Commercejs", "JavaScript"],
     source: "https://google.com",
-    visit: "https://google.com",
+    visit: "https://github.com/GabrielFraga962/E_commerce_Web",
     id: 2,
   },
   {
     title: "Chat Clone",
     description:
-      "Este é um repositório de código para a aplicação feita em ReactJS e deploy pelo Firebase. Com ele é possível simular um chat de bate papo em tempo real.",
+      "Este é um repositório de código para a aplicação feita em ReactJS e deploy pelo Firebase. Com ele é possível simular um chat de bate papo em tempo real - como o message.",
     image: "/images/4.jpg",
     tags: ["React", "ChatEngine", "Firebase"],
     source: "https://google.com",
