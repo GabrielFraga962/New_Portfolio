@@ -43,9 +43,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Me formei em Gestão e Negócios pela FMU', },
-  { year: 2018, text: 'Implementei a restruturação da cúria da Arquidiocese de SP', },
-  { year: 2019, text: 'Iniciei os meus estudos em Finanças e Négócios', },
-  { year: 2020, text: 'Comecei os meus estudos em Programação Web', },
-  { year: 2021, text: 'Ingressei na Cheil Brasil como Front-End Developer', },
+  { year: 2016, text: "Comecei a trabalhar na Arquidiocese de São Paulo",},
+  { year: 2017, text: "Me formei em Gestão e Negócios pela FMU" },
+  { year: 2019, text: "Iniciei os meus estudos em Finanças e Négócios" },
+  { year: 2020, text: "Comecei os meus estudos em Programação Web" },
+  { year: 2021, text: "Ingressei na Cheil Brasil como Front-End Developer" },
 ];
