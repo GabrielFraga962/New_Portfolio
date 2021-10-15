@@ -46,5 +46,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # Licença 📑
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://opensource.org/licenses/MIT) para mais detalhes.
-
-
