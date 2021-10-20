@@ -43,7 +43,7 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2016, text: "Comecei a trabalhar na Arquidiocese de São Paulo",},
+  { year: 2016, text: "Comecei a trabalhar na Arquidiocese de São Paulo"},
   { year: 2017, text: "Me formei em Gestão e Negócios pela FMU" },
   { year: 2019, text: "Iniciei os meus estudos em Finanças e Négócios" },
   { year: 2020, text: "Comecei os meus estudos em Programação Web" },

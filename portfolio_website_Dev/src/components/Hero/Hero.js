@@ -20,7 +20,8 @@ const Hero = () => (
       {/* Aqui terei que criar alguma outra página... */}
       <Button
         onClick={() =>
-          (window.location ="https://www.notion.so/Work-fbc8f66374f34656add39d40e01f202b")
+          (window.location =
+            "https://gabrielfraga.notion.site/Sobre-Mim-bdb82a6b8f814264b5f54d78981ac564")
         }
       >
         Saiba mais
