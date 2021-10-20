@@ -9,7 +9,7 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Celular</LinkTitle>
-          <LinkItem href="tel:(11)976099320">(11)976099320</LinkItem>
+          <LinkItem href="tel:(11)976099320">(11)9.7609-9320</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>E-mail</LinkTitle>
@@ -30,7 +30,7 @@ const Footer = () => {
           <SocialIcons href="https://www.linkedin.com/in/gabriel-s-976256110/" target="_blank">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://twitter.com/GSolomon96" target="_blank">
+          <SocialIcons href="https://twitter.com/GFraga96" target="_blank">
             <AiFillTwitterCircle size="3rem" />
           </SocialIcons>
         </SocialContainer>
