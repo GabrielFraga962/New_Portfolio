@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://i.ibb.co/WgPMpts/image.png" alt="Portfolio Website" />
+  <img src="https://i.imgur.com/OTiFTaC.png" alt="Portfolio Website" />
 </p>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
