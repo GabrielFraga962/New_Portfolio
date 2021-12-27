@@ -3,6 +3,8 @@
 ---
 [myportfolio](https://myportfoliogabrielsf.netlify.app/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b393abe0-503e-4a5a-924f-0782e7e7b321/deploy-status)](https://app.netlify.com/sites/myportfoliogabrielsf/deploys)
+
 ## Imagem do projeto 🖼️
 
 
