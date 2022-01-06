@@ -31,13 +31,13 @@ export const projects = [
     id: 2,
   },
   {
-    title: "Chat Clone",
+    title: "Tesla Homepage App Clone",
     description:
-      "Este é um repositório de código para a aplicação feita em ReactJS e deploy pelo Firebase. Com ele é possível simular um chat de bate papo em tempo real - como o message.",
-    image: "/images/4.jpg",
-    tags: ["React", "ChatEngine", "Firebase"],
+      "Este é um repositório de código para a aplicação feita em ReactJS e Framer Motion e deploy pelo Netlify. Ele é um clone da home page da Tesla.Inc para fins de estudo. ",
+    image: "/images/Tesla-Homepage.png",
+    tags: ["React", "Framer Motion", "Styled Components"],
     source: "https://google.com",
-    visit: "https://github.com/GabrielFraga962/Messenger_clone",
+    visit: "https://github.com/GabrielFraga962/Tesla_Homepage_Reactjs/tree/main/tesla-homepage-app-clone",
     id: 3,
   },
 ];
