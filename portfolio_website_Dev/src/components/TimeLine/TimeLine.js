@@ -53,7 +53,7 @@ const Timeline = () => {
       <SectionDivider/><br/>
       <SectionTitle>Sobre Mim</SectionTitle>
       <SectionText>
-        Front-End Developer na Cheil Brasil, estudante e entusiasta de Data
+        Front-End Developer na IPG Health, estudante e entusiasta de Data
         Science, Machine Learning, Big Data, futuro Analista de Dados.
         Interessado em ReactJs, Native, Angular, Python, Power BI, Data Science. Gosta de jogar
         League of Legends? É só chamar, vamos subir de patente juntos ou não

@@ -19,7 +19,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experiência em Angular <br />e ReactJs
+            Experiência em Angular <br />ReactJs, HTML e JavaScript
           </ListParagraph>
         </ListContainer>
       </ListItem>

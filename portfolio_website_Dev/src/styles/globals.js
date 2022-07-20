@@ -32,6 +32,25 @@ const GlobalStyles = createGlobalStyle`
     list-style: none;
   }
 
+  /*=============== SCROLL BAR ===============*/
+::-webkit-scrollbar{
+  width: .6rem;
+  border-radius: .5rem;
+  background-color: hsl(228, 8%, 76%);
+}
+
+::-webkit-scrollbar-thumb{
+  background-color: hsl(228, 8%, 64%);
+  border-radius: .5rem;
+}
+
+::-webkit-scrollbar-thumb:hover{
+  background-color: hsl(228, 8%, 54%);
+  
+}
+
 `;
+
+
 
 export default GlobalStyles;
