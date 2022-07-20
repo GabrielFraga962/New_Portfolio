@@ -1,9 +1,9 @@
 # New_Portfolio 🗂️
 
 ---
-[myportfolio](https://myportfoliogabrielsf.netlify.app/)
+[myportfolio](https://myportfoliogabrielfraga.netlify.app/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b393abe0-503e-4a5a-924f-0782e7e7b321/deploy-status)](https://app.netlify.com/sites/myportfoliogabrielsf/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1a1bf7bf-0090-4952-af2c-bd09d2eca7e1/deploy-status)](https://app.netlify.com/sites/myportfoliogabrielfraga/deploys)
 
 ## Imagem do projeto 🖼️
 
