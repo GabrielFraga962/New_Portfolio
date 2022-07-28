@@ -9,7 +9,7 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Celular</LinkTitle>
-          <LinkItem href="tel:(11)976099320">(11)9.7609-9320</LinkItem>
+          <LinkItem href="https://api.whatsapp.com/send?phone=5511976099320">(11)9.7609-9320</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>E-mail</LinkTitle>
